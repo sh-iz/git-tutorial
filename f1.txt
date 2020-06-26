@@ -1,1 +1,1 @@
-hello this is version 1 of the projex
+hello this is version 1 of the project
