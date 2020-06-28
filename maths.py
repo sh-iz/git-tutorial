@@ -8,3 +8,7 @@ print(a-b)
 print(a*b)
 
 print(a/b)
+
+//increment
+
+print(++a)
